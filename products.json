@@ -2,7 +2,7 @@
   {
     "name" : "baked beans",
     "price" : 0.40,
-    "image" : "beans.jpg",
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/beans.jpg",
     "type" : "vegetables"
   },
   {
